@@ -38,19 +38,19 @@ lib/
 
 ## Home Screen
 
-![Home Screen](assets/screenshots/home.jpg)
+<img src="assets/screenshots/home.jpg" width="250">
 
 ---
 
 ## Organization Detail
 
-![Organization Detail](assets/screenshots/member_detail.jpg)
+<img src="assets/screenshots/member_detail.jpg" width="250">
 
 ---
 
 ## Member List
 
-![Member List](assets/screenshots/member_list.png)
+<img src="assets/screenshots/member_list.jpg" width="250">
 
 ---
 
@@ -59,7 +59,7 @@ lib/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/farielzky/itc-the-seeker-2026-ariel.git
 ```
 
 ---
@@ -67,7 +67,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 ## 2. Move Into Project Folder
 
 ```bash
-cd YOUR_REPOSITORY
+cd itc-the-seeker-2026-ariel
 ```
 
 ---
